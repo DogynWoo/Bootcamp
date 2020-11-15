@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="insta-bloco-pai">
+        <div class="insta-phone">
+            <img src="insta celular.png">
+        </div>
+        <div class="insta-continue">
+            <div class="box-branca">
+                <img src="insta logo.png">
+                <div class="profile-foto">
+                    <img src="Foto Perfil.jpg">
+                </div>
+                <a href="#" class="insta-login">Continue como SungJinWoo</a>
+                <a href="#" class="insta-logout">Remover conta</a>
+            </div>
+            <div class="box-branca">
+                <p class="not-account">Não é SungJinWoo?</p>
+                <p class="not-account-2">
+                    <span class="link-blue">Alternar contas</span>
+                    ou
+                    <span class="Link-blue">Inscreva-se</span>
+                </p>
+            </div>
+            <div class="get-the-app">
+                <p class="get-app">Baixe o aplicativo</p>
+                <div class="download">
+                    <a href="https://play.google.com/store/apps/details?id=com.instagram.android&referrer=utm_source%3Dinstagramweb%26utm_campaign%3DloginPage%26ig_mid%3DB3F3C6B9-7CA4-48D7-B1F0-E54B776C7A13%26utm_content%3Dlo%26utm_medium%3Dbadge" class="baixar"></a> <!--android-->
+                    <a href="https://apps.apple.com/app/instagram/id389801252?vt=lo" class="baixar"></a> <!-- Apple -->
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
